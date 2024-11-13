@@ -1,0 +1,3 @@
+This project goal is to creata a dashboard to analyze historical order data for supply chain retailer. This dashboard will drive insights into purchasing behavior and help the company optimize inventory levels for the holiday season.
+
+Completed with Databricks notebooks, using Python and SQL, to ingest and transform order data into a Delta Lake table. The project includes implementing Delta Lake functionalities such as merge operations and time travel, creating a robust and scalable data pipeline.
